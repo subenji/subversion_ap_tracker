@@ -1,12 +1,12 @@
-# Archipelago Super Metroid Tracker Package for PopTracker
+# Archipelago Super Metroid: Subversion Tracker Package for PopTracker
 
-This a autotracking tracker package for PopTracker to use with the [Archipelago](https://archipelago.gg/) implementation of the Super Metroid Randomizer based on [VARIA](https://randommetroidsolver.pythonanywhere.com).
+This a autotracking tracker package for PopTracker to use with the [Archipelago](https://archipelago.gg/) implementation of the Super Metroid: Subversion Randomizer seen [here](https://github.com/SubversionRando/SubversionRando).
 
 PopTracker can be found [here](https://github.com/black-sliver/PopTracker/releases).
 
 Also check out the Archipelago Discord [here](https://discord.gg/8Z65BR2) and the Poptracker Discord [here](https://discord.com/invite/gwThqMCPgK).
 
-Compatible with Archipelago v0.3.0+ and PopTracker v0.20.1+
+Compatible with Archipelago v0.4.3+ and PopTracker v0.20.1+
 
 ## Installation
 
@@ -26,5 +26,5 @@ Make sure you have you layout backed up tho, so you don't lose it when you overr
 
 ## Autotracking
 
-This pack requires autotracking. It uses PopTracker's AP **and** SNES autotracking interface. It will track locations and items via the AP interface and use the SNES interface to track bosses and local items and mark doors and transtions while you go through the game. Requirements for Autotracking in PopTracker can be found [here](https://github.com/black-sliver/PopTracker/#auto-tracking).
+This pack requires autotracking. It uses PopTracker's AP autotracking interface. It will track locations and items via the AP interface. Requirements for Autotracking in PopTracker can be found [here](https://github.com/black-sliver/PopTracker/#auto-tracking).
 

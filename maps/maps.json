@@ -1,38 +1,50 @@
 [
     {
         "name": "fullmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
-        "img": "images/maps/map_full.png"
+        "location_size": 4,
+        "location_border_thickness": 1,
+        "img": "images/maps/SubversionFullMap.png"
     },
     {
-        "name": "crateriamap",
+        "name": "spaceportmap",
         "location_size": 27,
         "location_border_thickness": 5,
-        "img": "images/maps/map_crateria.png"
+        "img": "images/maps/SubversionSpacePort.png"
     },
     {
-        "name": "brinstarmap",
+        "name": "oceaniamap",
         "location_size": 27,
         "location_border_thickness": 5,
-        "img": "images/maps/map_brinstar.png"
+        "img": "images/maps/SubversionOceania.png"
     },
     {
-        "name": "norfairmap",
+        "name": "cavesmap",
         "location_size": 27,
         "location_border_thickness": 5,
-        "img": "images/maps/map_norfair.png"
+        "img": "images/maps/SubversionVulnarCaves.png"
     },
     {
-        "name": "wreckedshipmap",
+        "name": "peaksmap",
         "location_size": 27,
         "location_border_thickness": 5,
-        "img": "images/maps/map_ws.png"
+        "img": "images/maps/SubversionVulnarPeaks.png"
     },
     {
-        "name": "maridiamap",
+        "name": "depthsmap",
         "location_size": 27,
         "location_border_thickness": 5,
-        "img": "images/maps/map_maridia.png"
+        "img": "images/maps/SubversionTheDepths.png"
+    },
+    {
+        "name": "lomyrmap",
+        "location_size": 27,
+        "location_border_thickness": 5,
+        "img": "images/maps/SubversionLomyrValley.png"
+    },
+    {
+        "name": "suzimap",
+        "location_size": 27,
+        "location_border_thickness": 5,
+        "img": "images/maps/SubversionSuziIsland.png"
     }
 ]

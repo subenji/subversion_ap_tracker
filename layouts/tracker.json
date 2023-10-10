@@ -19,24 +19,6 @@
                                 "type": "layout",
                                 "key": "shared_item_grid"
                             }
-                        },
-                        /*{
-                            "type": "group",
-                            "header": "Doors",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "doors_item_grid"
-                            }
-                        },*/
-                        {
-                            "type": "group",
-                            "header": "Transitions",
-                            "dock": "top",
-                            "content": {
-                                "type": "layout",
-                                "key": "transitions_item_grid"
-                            }
                         }
                     ]
                 },
@@ -53,47 +35,74 @@
                             }
                         },
                         {
-                            "title": "Crateria",
+                            "title": "Space Port",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "crateriamap"
+                                    "spaceportmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Brinstar",
+                            "title": "Oceania",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "brinstarmap"
+                                    "oceaniamap"
                                 ]
                             }
                         },
                         {
-                            "title": "Norfair",
+                            "title": "Vulnar Caves",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "norfairmap"
+                                    "cavesmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Wrecked Ship",
+                            "title": "Vulnar Peaks",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "wreckedshipmap"
+                                    "peaksmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Maridia",
+                            "title": "The Depths",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "maridiamap"
+                                    "depthsmap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Lomyr Valley",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "lomyrmap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Suzi Island",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "suzimap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Wrecked Cargo Ship",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "cargomap"
                                 ]
                             }
                         }
@@ -124,30 +133,6 @@
                                 "v_alignment": "center",
                                 "key": "shared_item_grid"
                             }
-                        },
-                        /*{
-                            "type": "group",
-                            "header": "Doors",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "doors_item_grid"
-                            }
-                        },*/
-                        {
-                            "type": "group",
-                            "header": "Transitions",
-                            "dock": "left",
-                            "margin": "0,0,3,0",
-                            "content": {
-                                "type": "layout",
-                                "h_alignment": "center",
-                                "v_alignment": "center",
-                                "key": "transitions_item_grid"
-                            }
                         }
                     ]
                 },
@@ -164,47 +149,65 @@
                             }
                         },
                         {
-                            "title": "Crateria",
+                            "title": "Space Port",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "crateriamap"
+                                    "spaceportmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Brinstar",
+                            "title": "Oceania",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "brinstarmap"
+                                    "oceaniamap"
                                 ]
                             }
                         },
                         {
-                            "title": "Norfair",
+                            "title": "Vulnar Caves",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "norfairmap"
+                                    "cavesmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Wrecked Ship",
+                            "title": "Vulnar Peaks",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "wreckedshipmap"
+                                    "peaksmap"
                                 ]
                             }
                         },
                         {
-                            "title": "Maridia",
+                            "title": "The Depths",
                             "content": {
                                 "type": "map",
                                 "maps": [
-                                    "maridiamap"
+                                    "depthsmap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Lomyr Valley",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "lomyrmap"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Suzi Island",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "suzimap"
                                 ]
                             }
                         }

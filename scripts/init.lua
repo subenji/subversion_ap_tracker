@@ -7,29 +7,8 @@ if ENABLE_DEBUG_LOG then
     print("Debug logging is enabled!")
 end
 
-
--- Logic
-ScriptHost:LoadScript("scripts/logic/utils.lua")
-ScriptHost:LoadScript("scripts/logic/items.lua")
-ScriptHost:LoadScript("scripts/logic/areas.lua")
-ScriptHost:LoadScript("scripts/logic/doors.lua")
-ScriptHost:LoadScript("scripts/logic/locations.lua")
-ScriptHost:LoadScript("scripts/logic/logic.lua")
-
--- Custom Items
-ScriptHost:LoadScript("scripts/custom_items/class.lua")
-ScriptHost:LoadScript("scripts/custom_items/custom_item_progressive_toggle.lua")
-ScriptHost:LoadScript("scripts/custom_items/custom_item_progressive_toggle2.lua")
-ScriptHost:LoadScript("scripts/custom_items/door.lua")
-ScriptHost:LoadScript("scripts/custom_items/transition.lua")
-
 -- Items
 Tracker:AddItems("items/items.json")
-Tracker:AddItems("items/entrances.json")
--- Doors
-ScriptHost:LoadScript("scripts/init_doors.lua")
--- Transitions
-ScriptHost:LoadScript("scripts/init_transitions.lua")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
@@ -39,7 +18,6 @@ if DEBUG_MODE then
     Tracker:AddLocations("locations/debug.json")  
 else
     Tracker:AddLocations("locations/locations.json")
-    Tracker:AddLocations("locations/doors.json")
 end
 
 -- Layout

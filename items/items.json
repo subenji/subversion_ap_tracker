@@ -6,6 +6,12 @@
         "codes": "charge"
     },
     {
+        "name": "Hypercharge",
+        "type": "toggle",
+        "img": "images/items/hypercharge.png",
+        "codes": "hypercharge"
+    },
+    {
         "name": "Wave Beam",
         "type": "toggle",
         "img": "images/items/wave.png",
@@ -24,7 +30,7 @@
         "codes": "plasma"
     },
     {
-        "name": "Spazer Beam",
+        "name": "Spazer",
         "type": "toggle",
         "img": "images/items/spazer.png",
         "codes": "spazer"
@@ -36,10 +42,16 @@
         "codes": "varia"
     },
     {
-        "name": "Gravity Suit",
+        "name": "Aqua Suit",
         "type": "toggle",
         "img": "images/items/gravity.png",
         "codes": "gravity"
+    },
+    {
+        "name": "Metroid Suit",
+        "type": "toggle",
+        "img": "images/items/metroid.png",
+        "codes": "metroid"
     },
     {
         "name": "Morph Ball",
@@ -54,7 +66,7 @@
         "codes": "bomb"
     },
     {
-        "name": "Spring Ball",
+        "name": "Speed Ball",
         "type": "toggle",
         "img": "images/items/springball.png",
         "codes": "spring"
@@ -66,10 +78,22 @@
         "codes": "hijump"
     },
     {
+        "name": "Gravity Boots",
+        "type": "toggle",
+        "img": "images/items/gravityboots.png",
+        "codes": "gravityboots"
+    },
+    {
         "name": "Space Jump",
         "type": "toggle",
         "img": "images/items/space.png",
         "codes": "space"
+    },
+    {
+        "name": "Space Jump Boosts",
+        "type": "consumable",
+        "img": "images/items/spacejumpboost.png",
+        "codes": "spaceboost"
     },
     {
         "name": "Speed Booster",
@@ -78,28 +102,28 @@
         "codes": "speed"
     },
     {
-        "name": "Grapple",
+        "name": "Grapple Beam",
         "type": "toggle",
         "img": "images/items/grapple.png",
         "codes": "grapple"
     },
     {
-        "name": "Xray",
+        "name": "X-Ray Scope",
         "type": "toggle",
         "img": "images/items/xray.png",
         "codes": "xray"
+    },
+    {
+        "name": "Dark Visor",
+        "type": "toggle",
+        "img": "images/items/visor.png",
+        "codes": "visor"
     },
     {
         "name": "Screw Attack",
         "type": "toggle",
         "img": "images/items/screw.png",
         "codes": "screw"
-    },
-    {
-        "name": "Hyper Beam",
-        "type": "toggle",
-        "img": "images/items/hyper.png",
-        "codes": "hyper"
     },
     {
         "name": "Ridley",
@@ -189,34 +213,90 @@
         "codes": "etank,alltanks"
     },
     {
-        "name": "Reserve Tanks",
+        "name": "Refuel Tanks",
         "type": "consumable",
         "img": "images/items/reservetank.png",
         "max_quantity": 4,
         "codes": "reserve,reservetank,alltanks"
     },
     {
-        "name": "Missile Capacity",
-        "type": "consumable",
+        "name": "Missile",
+        "type": "toggle",
         "img": "images/items/missile.png",
-        "max_quantity": 500,
-        "increment": 5,
         "codes": "missile"
     },
     {
-        "name": "Super Missile Capacity",
-        "type": "consumable",
+        "name": "Super Missile",
+        "type": "toggle",
         "img": "images/items/super.png",
-        "max_quantity": 500,
-        "increment": 5,
         "codes": "supermissile,super"
     },
     {
-        "name": "Power Bomb Capacity",
-        "type": "consumable",
+        "name": "Power Bomb",
+        "type": "toggle",
         "img": "images/items/powerbomb.png",
-        "max_quantity": 500,
-        "increment": 5,
         "codes": "powerbomb,pb"
+    },
+    {
+        "name": "Large Ammo Tanks",
+        "type": "consumable",
+        "img": "images/items/largeammo.png",
+        "codes": "ammo,large"
+    },
+    {
+        "name": "Small Ammo Tanks",
+        "type": "consumable",
+        "img": "images/items/smallammo.png",
+        "codes": "ammo,small"
+    },
+    {
+        "name": "Damage Amp",
+        "type": "consumable",
+        "img": "images/items/amp.png",
+        "codes": "damage,amp"
+    },
+    {
+        "name": "Accel Charge",
+        "type": "consumable",
+        "img": "images/items/accel.png",
+        "codes": "accel"
+    },
+    {
+        "name": "Space Port Crashed",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/items/crash.png",
+				"img_mods": "@disabled"
+            },
+            {
+                "img": "images/items/crash.png",
+                "codes": "crash"
+            }
+        ]
+    },
+	{
+        "name": "Power",
+        "type": "progressive",
+        "allow_disabled": false,
+        "loop": true,
+        "stages": [
+            {
+                "img": "images/items/power.png"
+            },
+            {
+                "img": "images/items/power.png",
+				"img_mods": "@disabled",
+                "codes": "power"
+            }
+        ]
+    },
+	{
+        "name": "Lava Lowered",
+        "type": "consumable",
+        "img": "images/items/torizo.png",
+        "codes": "lava"
     }
 ]

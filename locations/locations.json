@@ -604,6 +604,630 @@
                         "y": 83
                     }
                 ]
+            },
+			{
+                "name": "Cistern",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Cistern"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 858,
+                        "y": 251
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 127,
+                        "y": 107
+                    }
+                ]
+            },
+			{
+                "name": "Warrior Shrine: Bottom",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Warrior Shrine: Bottom"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 882,
+                        "y": 219
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 151,
+                        "y": 75
+                    }
+                ]
+            },
+			{
+                "name": "Warrior Shrine: Top",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Warrior Shrine: Top"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 874,
+                        "y": 211
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 143,
+                        "y": 67
+                    }
+                ]
+            },
+			{
+                "name": "Warrior Shrine: Middle",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Warrior Shrine: Middle"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 874,
+                        "y": 219
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 143,
+                        "y": 75
+                    }
+                ]
+            },
+			{
+                "name": "Vulnar Caves Entrance",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Vulnar Caves Entrance"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 754,
+                        "y": 259
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 23,
+                        "y": 115
+                    }
+                ]
+            },
+			{
+                "name": "Trophobiotic Chamber",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Trophobiotic Chamber"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 786,
+                        "y": 267
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 55,
+                        "y": 123
+                    }
+                ]
+            },
+			{
+                "name": "Path Of Swords",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Path Of Swords"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 754,
+                        "y": 275
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 23,
+                        "y": 131
+                    }
+                ]
+            },
+			{
+                "name": "Crypt",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Crypt"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 826,
+                        "y": 227
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 93,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Arena",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Arena"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 858,
+                        "y": 211
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 127,
+                        "y": 67
+                    }
+                ]
+            },
+			{
+                "name": "Auxiliary Pump Room",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Auxiliary Pump Room"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 826,
+                        "y": 251
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 95,
+                        "y": 107
+                    }
+                ]
+            },
+			{
+                "name": "Monitoring Station",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Monitoring Station"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 794,
+                        "y": 243
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 63,
+                        "y": 99
+                    }
+                ]
+            },
+			{
+                "name": "Archives: Front",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Archives: Front"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 802,
+                        "y": 211
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 71,
+                        "y": 67
+                    }
+                ]
+            },
+			{
+                "name": "Archives: Back",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Archives: Back"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 778,
+                        "y": 211
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 47,
+                        "y": 67
+                    }
+                ]
+            },
+			{
+                "name": "Sensor Maintenance: Top",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Sensor Maintenance: Top"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 786,
+                        "y": 219
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 55,
+                        "y": 75
+                    }
+                ]
+            },
+			{
+                "name": "Sensor Maintenance: Bottom",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Sensor Maintenance: Bottom"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 786,
+                        "y": 227
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 55,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Causeway Overlook",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Causeway Overlook"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 898,
+                        "y": 243
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 167,
+                        "y": 99
+                    }
+                ]
+            },
+			{
+                "name": "Eribium Apparatus Room",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Eribium Apparatus Room"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 914,
+                        "y": 275
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 183,
+                        "y": 131
+                    }
+                ]
+            },
+			{
+                "name": "West Spore Field",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|West Spore Field"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 786,
+                        "y": 299
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 55,
+                        "y": 155
+                    }
+                ]
+            },
+			{
+                "name": "Hot Spring",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Hot Spring"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 810,
+                        "y": 331
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 79,
+                        "y": 187
+                    }
+                ]
+            },
+			{
+                "name": "Waste Processing",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Waste Processing"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 866,
+                        "y": 291
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 135,
+                        "y": 147
+                    }
+                ]
+            },
+			{
+                "name": "Placid Pool",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Placid Pool"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 850,
+                        "y": 331
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 119,
+                        "y": 187
+                    }
+                ]
+            },
+			{
+                "name": "Epiphreatic Crag",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Epiphreatic Crag"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 954,
+                        "y": 283
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 223,
+                        "y": 139
+                    }
+                ]
+            },
+			{
+                "name": "Mezzanine Concourse",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Mezzanine Concourse"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 922,
+                        "y": 227
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 191,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Grand Chasm",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Grand Chasm"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 810,
+                        "y": 171
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 79,
+                        "y": 27
+                    }
+                ]
             }
         ]
     }

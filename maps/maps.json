@@ -7,44 +7,44 @@
     },
     {
         "name": "spaceportmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionSpacePort.png"
     },
     {
         "name": "oceaniamap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionOceania.png"
     },
     {
         "name": "cavesmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionVulnarCaves.png"
     },
     {
         "name": "peaksmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionVulnarPeaks.png"
     },
     {
         "name": "depthsmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionTheDepths.png"
     },
     {
         "name": "lomyrmap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionLomyrValley.png"
     },
     {
         "name": "suzimap",
-        "location_size": 27,
-        "location_border_thickness": 5,
+        "location_size": 4,
+        "location_border_thickness": 1,
         "img": "images/maps/SubversionSuziIsland.png"
     }
 ]

@@ -23,8 +23,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 456,
-                        "y": 148
+                        "x": 259,
+                        "y": 69
                     }
                 ]
             },
@@ -49,8 +49,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 712,
-                        "y": 276
+                        "x": 259,
+                        "y": 85
                     }
                 ]
             },
@@ -75,8 +75,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 296,
-                        "y": 276
+                        "x": 211,
+                        "y": 61
                     }
                 ]
             },
@@ -101,8 +101,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 968,
-                        "y": 116
+                        "x": 219,
+                        "y": 53
                     }
                 ]
             },
@@ -127,8 +127,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 1128,
-                        "y": 244
+                        "x": 195,
+                        "y": 93
                     }
                 ]
             },
@@ -153,8 +153,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 1160,
-                        "y": 84
+                        "x": 203,
+                        "y": 69
                     }
                 ]
             },
@@ -179,8 +179,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 1128,
-                        "y": 148
+                        "x": 99,
+                        "y": 141
                     }
                 ]
             },
@@ -205,8 +205,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 1064,
-                        "y": 212
+                        "x": 51,
+                        "y": 117
                     }
                 ]
             },
@@ -231,8 +231,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 552,
-                        "y": 660
+                        "x": 91,
+                        "y": 93
                     }
                 ]
             },
@@ -240,7 +240,7 @@
                 "name": "Sandy Burrow: Top",
                 "access_rules": [
                     [
-                        "$get_access_to_loc|Sandy Burrow: Top)"
+                        "$get_access_to_loc|Sandy Burrow: Top"
                     ]
                 ],
                 "sections": [
@@ -257,8 +257,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 280,
-                        "y": 180
+                        "x": 75,
+                        "y": 109
                     }
                 ]
             },
@@ -283,8 +283,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 248,
-                        "y": 180
+                        "x": 67,
+                        "y": 117
                     }
                 ]
             },
@@ -309,8 +309,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 680,
-                        "y": 372
+                        "x": 75,
+                        "y": 165
                     }
                 ]
             },
@@ -335,8 +335,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 83,
+                        "y": 173
                     }
                 ]
             },
@@ -361,8 +361,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 115,
+                        "y": 141
                     }
                 ]
             },
@@ -387,8 +387,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 115,
+                        "y": 173
                     }
                 ]
             },
@@ -413,8 +413,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 155,
+                        "y": 133
                     }
                 ]
             },
@@ -439,8 +439,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 139,
+                        "y": 133
                     }
                 ]
             },
@@ -465,8 +465,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 179,
+                        "y": 109
                     }
                 ]
             },
@@ -491,8 +491,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 187,
+                        "y": 157
                     }
                 ]
             },
@@ -517,8 +517,8 @@
                     },
                     {
                         "map": "oceaniamap",
-                        "x": 424,
-                        "y": 308
+                        "x": 27,
+                        "y": 165
                     }
                 ]
             }
@@ -547,12 +547,64 @@
                         "y": 283
                     },
                     {
-                        "map": "brinstarmap",
-                        "x": 744,
-                        "y": 404
+                        "map": "cavesmap",
+                        "x": 87,
+                        "y": 139
                     }
                 ]
             },
+			{
+                "name": "Upper Vulnar Power Node",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Upper Vulnar Power Node"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 778,
+                        "y": 227
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 47,
+                        "y": 83
+                    }
+                ]
+            },
+			{
+                "name": "Grand Vault",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Grand Vault"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 794,
+                        "y": 227
+                    },
+                    {
+                        "map": "cavesmap",
+                        "x": 63,
+                        "y": 83
+                    }
+                ]
+            }
         ]
     }
 ]

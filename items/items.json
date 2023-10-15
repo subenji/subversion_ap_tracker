@@ -72,7 +72,7 @@
         "codes": "spring"
     },
     {
-        "name": "High Jump",
+        "name": "High-Jump Boots",
         "type": "toggle",
         "img": "images/items/hijump.png",
         "codes": "hijump"
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "name": "Etanks",
+        "name": "Energy Tanks",
         "type": "consumable",
         "img": "images/items/etank.png",
         "max_quantity": 16,

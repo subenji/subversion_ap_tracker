@@ -2,6 +2,8 @@
 
 This a autotracking tracker package for PopTracker to use with the [Archipelago](https://archipelago.gg/) implementation of the Super Metroid: Subversion Randomizer seen [here](https://github.com/SubversionRando/SubversionRando).
 
+The apworld for Super Metroid: Subversion can be found on the [Archipelago Discord](https://discord.gg/8Z65BR2) within [this thread](https://discord.com/channels/731205301247803413/1146853510378422272).
+
 PopTracker can be found [here](https://github.com/black-sliver/PopTracker/releases).
 
 Also check out the Archipelago Discord [here](https://discord.gg/8Z65BR2) and the Poptracker Discord [here](https://discord.com/invite/gwThqMCPgK).

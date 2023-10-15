@@ -1230,5 +1230,608 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "The Depths",
+        "children": [
+            {
+                "name": "Blazing Chasm",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Blazing Chasm"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 778,
+                        "y": 515
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 115,
+                        "y": 204
+                    }
+                ]
+            },
+			{
+                "name": "Greater Inferno",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Greater Inferno"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 810,
+                        "y": 539
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 147,
+                        "y": 228
+                    }
+                ]
+            },
+			{
+                "name": "Mining Site 1",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Mining Site 1"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 722,
+                        "y": 355
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 59,
+                        "y": 44
+                    }
+                ]
+            },
+			{
+                "name": "Burning Depths Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Burning Depths Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 882,
+                        "y": 449
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 219,
+                        "y": 188
+                    }
+                ]
+            },
+			{
+                "name": "Generator Manifold",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Generator Manifold"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 818,
+                        "y": 451
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 155,
+                        "y": 140
+                    }
+                ]
+            },
+			{
+                "name": "Colosseum",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Colosseum"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 778,
+                        "y": 443
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 115,
+                        "y": 132
+                    }
+                ]
+            },
+			{
+                "name": "Mining Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Mining Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 770,
+                        "y": 395
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 107,
+                        "y": 84
+                    }
+                ]
+            },
+			{
+                "name": "Lava Pool",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Lava Pool"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 802,
+                        "y": 387
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 139,
+                        "y": 76
+                    }
+                ]
+            },
+			{
+                "name": "Fiery Crossing Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Fiery Crossing Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 746,
+                        "y": 411
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 83,
+                        "y": 100
+                    }
+                ]
+            },
+			{
+                "name": "Dark Crevice Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Dark Crevice Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 746,
+                        "y": 419
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 83,
+                        "y": 108
+                    }
+                ]
+            },
+			{
+                "name": "Magma Chamber",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Magma Chamber"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 754,
+                        "y": 483
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 91,
+                        "y": 172
+                    }
+                ]
+            },
+			{
+                "name": "Hive Main Chamber",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Hive Main Chamber"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 930,
+                        "y": 363
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 267,
+                        "y": 52
+                    }
+                ]
+            },
+			{
+                "name": "Infested Passage",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Infested Passage"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 938,
+                        "y": 379
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 275,
+                        "y": 68
+                    }
+                ]
+            },
+			{
+                "name": "Crossway Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Crossway Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 970,
+                        "y": 379
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 307,
+                        "y": 68
+                    }
+                ]
+            },
+			{
+                "name": "Fire's Boon Shrine",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Fire's Boon Shrine"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 1002,
+                        "y": 419
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 339,
+                        "y": 108
+                    }
+                ]
+            },
+			{
+                "name": "Fire's Bane Shrine",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Fire's Bane Shrine"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 1034,
+                        "y": 451
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 371,
+                        "y": 140
+                    }
+                ]
+            },
+			{
+                "name": "Slag Heap",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Slag Heap"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 978,
+                        "y": 459
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 315,
+                        "y": 148
+                    }
+                ]
+            },
+			{
+                "name": "Ancient Shaft",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Ancient Shaft"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 1042,
+                        "y": 411
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 379,
+                        "y": 100
+                    }
+                ]
+            },
+			{
+                "name": "Gymnasium",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Gymnasium"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 1034,
+                        "y": 379
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 371,
+                        "y": 68
+                    }
+                ]
+            },
+			{
+                "name": "Ancient Basin",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Ancient Basin"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 1058,
+                        "y": 387
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 395,
+                        "y": 76
+                    }
+                ]
+            },
+			{
+                "name": "Electromechanical Engine",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Electromechanical Engine"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 810,
+                        "y": 419
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 147,
+                        "y": 108
+                    }
+                ]
+            },
+			{
+                "name": "Depressurization Valve",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Depressurization Valve"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 842,
+                        "y": 435
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 179,
+                        "y": 124
+                    }
+                ]
+            },
+			{
+                "name": "Magma Lake Cache",
+                "access_rules": [
+                    [
+                        "$get_access_to_loc|Magma Lake Cache"
+                    ]
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "fullmap",
+                        "x": 682,
+                        "y": 435
+                    },
+                    {
+                        "map": "depthsmap",
+                        "x": 19,
+                        "y": 124
+                    }
+                ]
+            }
+        ]
     }
 ]

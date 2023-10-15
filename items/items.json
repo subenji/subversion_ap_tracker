@@ -93,6 +93,7 @@
         "name": "Space Jump Boosts",
         "type": "consumable",
         "img": "images/items/spacejumpboost.png",
+		"max_quantity": 8,
         "codes": "spaceboost"
     },
     {
@@ -209,14 +210,14 @@
         "name": "Etanks",
         "type": "consumable",
         "img": "images/items/etank.png",
-        "max_quantity": 14,
+        "max_quantity": 16,
         "codes": "etank,alltanks"
     },
     {
         "name": "Refuel Tanks",
         "type": "consumable",
         "img": "images/items/reservetank.png",
-        "max_quantity": 4,
+        "max_quantity": 7,
         "codes": "reserve,reservetank,alltanks"
     },
     {
@@ -241,24 +242,28 @@
         "name": "Large Ammo Tanks",
         "type": "consumable",
         "img": "images/items/largeammo.png",
+		"max_quantity": 18,
         "codes": "ammo,large"
     },
     {
         "name": "Small Ammo Tanks",
         "type": "consumable",
         "img": "images/items/smallammo.png",
+		"max_quantity": 38,
         "codes": "ammo,small"
     },
     {
         "name": "Damage Amp",
         "type": "consumable",
         "img": "images/items/amp.png",
+		"max_quantity": 6,
         "codes": "damage,amp"
     },
     {
         "name": "Accel Charge",
         "type": "consumable",
         "img": "images/items/accel.png",
+		"max_quantity": 6,
         "codes": "accel"
     },
     {

@@ -2,7 +2,7 @@
     "name": "Super Metroid: Subversion Map Tracker",
     "game_name": "Super Metroid: Subversion",
     "package_version": "0.0.0.1",
-    "package_uid": "subversion_ap_scrungip",
+    "package_uid": "subversion_ap_scrungip_wip",
     "author": "Scrungip, Cyb3R",
 	"variants": {
         "standard": {

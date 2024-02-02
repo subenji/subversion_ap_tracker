@@ -6,12 +6,12 @@ GLOBAL_ITEMS = {}
 
 function onClear(slot_data)    
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING then
-        print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))           
+        print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     end
     SLOT_DATA = slot_data
     CUR_INDEX = -1
-    set_transitions(slot_data)
-    set_doors(slot_data)
+    --set_transitions(slot_data)
+    --set_doors(slot_data)
     for _, v in pairs(LOCATION_MAPPING) do
         if v[1] then
             if AUTOTRACKER_ENABLE_DEBUG_LOGGING then

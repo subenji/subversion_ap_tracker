@@ -1,4 +1,4 @@
-DEBUG_MODE = false
+DEBUG_MODE = true
 ENABLE_DEBUG_LOG = false or DEBUG_MODE
 
 print("-- SM AP Tracker --")
@@ -10,37 +10,38 @@ end
 
 -- Logic
 ScriptHost:LoadScript("scripts/logic/utils.lua")
-ScriptHost:LoadScript("scripts/logic/items.lua")
+--[[ScriptHost:LoadScript("scripts/logic/items.lua")
 ScriptHost:LoadScript("scripts/logic/areas.lua")
-ScriptHost:LoadScript("scripts/logic/doors.lua")
+ScriptHost:LoadScript("scripts/logic/doors.lua")]]
 ScriptHost:LoadScript("scripts/logic/locations.lua")
-ScriptHost:LoadScript("scripts/logic/logic.lua")
+--ScriptHost:LoadScript("scripts/logic/logic.lua")
+
 
 -- Custom Items
-ScriptHost:LoadScript("scripts/custom_items/class.lua")
+--[[ScriptHost:LoadScript("scripts/custom_items/class.lua")
 ScriptHost:LoadScript("scripts/custom_items/custom_item_progressive_toggle.lua")
 ScriptHost:LoadScript("scripts/custom_items/custom_item_progressive_toggle2.lua")
 ScriptHost:LoadScript("scripts/custom_items/door.lua")
 ScriptHost:LoadScript("scripts/custom_items/transition.lua")
+]]
 
 -- Items
 Tracker:AddItems("items/items.json")
-Tracker:AddItems("items/entrances.json")
+--Tracker:AddItems("items/entrances.json")
 -- Doors
-ScriptHost:LoadScript("scripts/init_doors.lua")
+--ScriptHost:LoadScript("scripts/init_doors.lua")
 -- Transitions
-ScriptHost:LoadScript("scripts/init_transitions.lua")
+--ScriptHost:LoadScript("scripts/init_transitions.lua")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")
 
 -- Locations
 if DEBUG_MODE then
-    Tracker:AddLocations("locations/debug.json")  
-else
-    Tracker:AddLocations("locations/locations.json")
-    Tracker:AddLocations("locations/doors.json")
+    --Tracker:AddLocations("locations/debug.json")  
 end
+Tracker:AddLocations("locations/locations.json")
+--Tracker:AddLocations("locations/doors.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/items.json")

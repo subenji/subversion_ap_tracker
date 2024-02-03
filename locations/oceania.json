@@ -1,0 +1,370 @@
+[
+  {
+    "name": "Oceania",
+    "children": [
+      {
+        "name": "Impact Crater",
+        "access_rules": [["$get_access_to_loc|Impact Crater"]],
+        "sections": [
+          {
+            "name": "Accel Charge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 259,
+            "y": 69
+          }
+        ]
+      },
+      {
+        "name": "Subterranean Burrow",
+        "access_rules": [["$get_access_to_loc|Subterranean Burrow"]],
+        "sections": [
+          {
+            "name": "Morph Ball",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 259,
+            "y": 85
+          }
+        ]
+      },
+      {
+        "name": "Impact Crater Alcove",
+        "access_rules": [["$get_access_to_loc|Impact Crater Alcove"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 211,
+            "y": 61
+          }
+        ]
+      },
+      {
+        "name": "Impact Crater Overlook",
+        "access_rules": [["$get_access_to_loc|Impact Crater Overlook"]],
+        "sections": [
+          {
+            "name": "Refuel Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 219,
+            "y": 53
+          }
+        ]
+      },
+      {
+        "name": "Ocean Shore: Bottom",
+        "access_rules": [["$get_access_to_loc|Ocean Shore Bottom"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 195,
+            "y": 93
+          }
+        ]
+      },
+      {
+        "name": "Ocean Shore: Top",
+        "access_rules": [["$get_access_to_loc|Ocean Shore Top"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 203,
+            "y": 69
+          }
+        ]
+      },
+      {
+        "name": "Sandy Cache",
+        "access_rules": [["$get_access_to_loc|Sandy Cache"]],
+        "sections": [
+          {
+            "name": "Gravity Boots",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 99,
+            "y": 141
+          }
+        ]
+      },
+      {
+        "name": "Submarine Nest",
+        "access_rules": [["$get_access_to_loc|Submarine Nest"]],
+        "sections": [
+          {
+            "name": "Refuel Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 51,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of The Penumbra",
+        "access_rules": [["$get_access_to_loc|Shrine Of The Penumbra"]],
+        "sections": [
+          {
+            "name": "Dark Visor",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 91,
+            "y": 93
+          }
+        ]
+      },
+      {
+        "name": "Sandy Burrow: Top",
+        "access_rules": [["$get_access_to_loc|Sandy Burrow Top"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 75,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Sandy Burrow: Bottom",
+        "access_rules": [["$get_access_to_loc|Sandy Burrow Bottom"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 67,
+            "y": 117
+          }
+        ]
+      },
+      {
+        "name": "Benthic Cache Access",
+        "access_rules": [["$get_access_to_loc|Benthic Cache Access"]],
+        "sections": [
+          {
+            "name": "Damage Amp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 75,
+            "y": 165
+          }
+        ]
+      },
+      {
+        "name": "Benthic Cache",
+        "access_rules": [["$get_access_to_loc|Benthic Cache"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 83,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "Submarine Alcove",
+        "access_rules": [["$get_access_to_loc|Submarine Alcove"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 115,
+            "y": 141
+          }
+        ]
+      },
+      {
+        "name": "Ocean Vent Supply Depot",
+        "access_rules": [["$get_access_to_loc|Ocean Vent Supply Depot"]],
+        "sections": [
+          {
+            "name": "Super Missile",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 115,
+            "y": 173
+          }
+        ]
+      },
+      {
+        "name": "Sediment Floor",
+        "access_rules": [["$get_access_to_loc|Sediment Floor"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 155,
+            "y": 133
+          }
+        ]
+      },
+      {
+        "name": "Sediment Flow",
+        "access_rules": [["$get_access_to_loc|Sediment Flow"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 139,
+            "y": 133
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gully",
+        "access_rules": [["$get_access_to_loc|Sandy Gully"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 179,
+            "y": 109
+          }
+        ]
+      },
+      {
+        "name": "Eddy Channel",
+        "access_rules": [["$get_access_to_loc|Eddy Channel"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 187,
+            "y": 157
+          }
+        ]
+      },
+      {
+        "name": "Tram To Suzi Island",
+        "access_rules": [["$get_access_to_loc|Tram To Suzi Island"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 27,
+            "y": 165
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OceaniaCrashed",
+    "visibility_rules": ["$spaceport_crashed"],
+    "children": [
+      {
+        "name": "Docking Port 4 Crashed Item",
+        "access_rules": [["@Space Port/Docking Port 4/Space Jump Boost"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "oceaniamap",
+            "x": 252,
+            "y": 45
+          }
+        ]
+      }
+    ]
+  }
+]

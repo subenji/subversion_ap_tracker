@@ -1,0 +1,161 @@
+[
+  {
+    "name": "Space Port",
+    "visibility_rules": ["$spaceport_not_crashed"],
+    "children": [
+      {
+        "name": "Docking Port 4",
+        "access_rules": [["$get_access_to_loc|Docking Port 4"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "spaceportmap",
+            "x": 107,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Docking Port 3",
+        "access_rules": [["$get_access_to_loc|Docking Port 3"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 203,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Weapon Locker",
+        "access_rules": [["$get_access_to_loc|Weapon Locker"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 259,
+            "y": 35
+          }
+        ]
+      },
+      {
+        "name": "Aft Battery",
+        "access_rules": [["$get_access_to_loc|Aft Battery"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 259,
+            "y": 51
+          }
+        ]
+      },
+      {
+        "name": "Forward Battery",
+        "access_rules": [["$get_access_to_loc|Forward Battery"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 371,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Gantry",
+        "access_rules": [["$get_access_to_loc|Gantry"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 171,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Ready Room",
+        "access_rules": [["$get_access_to_loc|Ready Room"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 163,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Torpedo Bay",
+        "access_rules": [["$get_access_to_loc|Torpedo Bay"]],
+        "sections": [
+          {
+            "name": "Missile",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 27,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Extract Storage",
+        "access_rules": [["$get_access_to_loc|Extract Storage"]],
+        "sections": [
+          {
+            "name": "Metroid Suit",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+                    {
+            "map": "spaceportmap",
+            "x": 35,
+            "y": 59
+          }
+        ]
+      }
+    ]
+  }
+]

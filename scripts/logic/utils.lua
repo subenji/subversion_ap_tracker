@@ -94,3 +94,11 @@ function dump_table(o, depth)
     end
  end
 
+--[[AccessibilityLevel = {
+    None = 0,
+    Partial = 1,
+    Inspect = 2,
+    SequenceBreak = 3,
+    Normal = 4,
+    Cleared = 5
+}]]

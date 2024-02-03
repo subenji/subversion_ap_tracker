@@ -8,8 +8,23 @@
         ],
         "sections": [
             {
-                "name": "",
+                "name": "Item",
                 "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "spaceportmap",
+                "x": 0,
+                "y": 0
+            }
+        ]
+    },
+    {
+        "name": "Debug 2",
+        "sections": [
+            {
+                "ref": "Debug/Item"
             }
         ],
         "map_locations": [

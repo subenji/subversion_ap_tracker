@@ -274,7 +274,8 @@
         "stages": [
             {
                 "img": "images/items/crash.png",
-				"img_mods": "@disabled"
+				"img_mods": "@disabled",
+                "codes": "notcrash"
             },
             {
                 "img": "images/items/crash.png",

@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Vulnar Peaks",
+    "children": [
+      {
+        "name": "Frozen Lake Wall",
+        "access_rules": [["$get_access_to_loc|Frozen Lake Wall"]],
+        "sections": [
+          {
+            "name": "Damage Amp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 228,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "name": "Grand Promenade",
+        "access_rules": [["$get_access_to_loc|Grand Promenade"]],
+        "sections": [
+          {
+            "name": "Refuel Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 12,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Summit Landing",
+        "access_rules": [["$get_access_to_loc|Summit Landing"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 132,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Icy Flow",
+        "access_rules": [["$get_access_to_loc|Icy Flow"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 164,
+            "y": 68
+          }
+        ]
+      },
+      {
+        "name": "Snow Cache",
+        "access_rules": [["$get_access_to_loc|Snow Cache"]],
+        "sections": [
+          {
+            "name": "Accel Charge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 172,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "name": "Ice Cave",
+        "access_rules": [["$get_access_to_loc|Ice Cave"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 164,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Glacier's Reach",
+        "access_rules": [["$get_access_to_loc|Glacier's Reach"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 148,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Reliquary Access",
+        "access_rules": [["$get_access_to_loc|Reliquary Access"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 36,
+            "y": 12
+          }
+        ]
+      },
+      {
+        "name": "Syzygy Observatorium",
+        "access_rules": [["$get_access_to_loc|Syzygy Observatorium"]],
+        "sections": [
+          {
+            "name": "Screw Attack\nCode 32311",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 68,
+            "y": 4
+          }
+        ]
+      },
+      {
+        "name": "Armory Cache 2",
+        "access_rules": [["$get_access_to_loc|Armory Cache 2"]],
+        "sections": [
+          {
+            "name": "Varia Suit",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 68,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Armory Cache 3",
+        "access_rules": [["$get_access_to_loc|Armory Cache 3"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 76,
+            "y": 60
+          }
+        ]
+      },
+      {
+        "name": "Sitting Room",
+        "access_rules": [["$get_access_to_loc|Sitting Room"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 44,
+            "y": 36
+          }
+        ]
+      },
+      {
+        "name": "Drawing Room",
+        "access_rules": [["$get_access_to_loc|Drawing Room"]],
+        "sections": [
+          {
+            "name": "Accel Charge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 92,
+            "y": 36
+          }
+        ]
+      },
+      {
+        "name": "Antechamber",
+        "access_rules": [["$get_access_to_loc|Antechamber"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "peaksmap",
+            "x": 92,
+            "y": 52
+          }
+        ]
+      }
+    ]
+  }
+]

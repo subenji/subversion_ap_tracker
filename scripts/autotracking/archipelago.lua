@@ -4,7 +4,7 @@ ScriptHost:LoadScript("scripts/autotracking/location_mapping.lua")
 LOCAL_ITEMS = {}
 GLOBAL_ITEMS = {}
 
-function onClear(slot_data)    
+function onClear(slot_data)
     if AUTOTRACKER_ENABLE_DEBUG_LOGGING then
         print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     end

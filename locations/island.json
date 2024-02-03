@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Suzi Island",
+    "children": [
+      {
+        "name": "Suzi Island Map Station Access",
+        "access_rules": [["$get_access_to_loc|Suzi Island Map Station Access"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 171,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Obscured Vestibule",
+        "access_rules": [["$get_access_to_loc|Obscured Vestibule"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 99,
+            "y": 99
+          }
+        ]
+      },
+      {
+        "name": "Portico",
+        "access_rules": [["$get_access_to_loc|Portico"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 203,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "Tower Rock Lookout",
+        "access_rules": [["$get_access_to_loc|Tower Rock Lookout"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 315,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Reef Nook",
+        "access_rules": [["$get_access_to_loc|Reef Nook"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 307,
+            "y": 131
+          }
+        ]
+      },
+      {
+        "name": "Saline Cache",
+        "access_rules": [["$get_access_to_loc|Saline Cache"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 235,
+            "y": 179
+          }
+        ]
+      },
+      {
+        "name": "Enervation Chamber",
+        "access_rules": [["$get_access_to_loc|Enervation Chamber"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 147,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of The Animate Spark",
+        "access_rules": [["$get_access_to_loc|Shrine Of The Animate Spark"]],
+        "sections": [
+          {
+            "name": "Hypercharge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "suzimap",
+            "x": 147,
+            "y": 11
+          }
+        ]
+      }
+    ]
+  }
+]

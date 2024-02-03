@@ -40,7 +40,14 @@ Tracker:AddMaps("maps/maps.json")
 if DEBUG_MODE then
     --Tracker:AddLocations("locations/debug.json")  
 end
-Tracker:AddLocations("locations/locations.json")
+Tracker:AddLocations("locations/spaceport.json")
+Tracker:AddLocations("locations/oceania.json")
+Tracker:AddLocations("locations/caves.json")
+Tracker:AddLocations("locations/depths.json")
+Tracker:AddLocations("locations/valley.json")
+Tracker:AddLocations("locations/island.json")
+Tracker:AddLocations("locations/peaks.json")
+Tracker:AddLocations("locations/overworld.json")
 --Tracker:AddLocations("locations/doors.json")
 
 -- Layout

@@ -1,0 +1,1892 @@
+[
+  {
+    "name": "OWSpaceport",
+    "visibility_rules": ["$spaceport_not_crashed"],
+    "children": [
+      //Space Port
+      {
+        "name": "Docking Port 4",
+        "sections": [
+          {
+            "ref": "Space Port/Docking Port 4/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 947,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Docking Port 3",
+        "sections": [
+          {
+            "ref": "Space Port/Docking Port 3/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1043,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Weapon Locker",
+        "sections": [
+          {
+            "ref": "Space Port/Weapon Locker/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1099,
+            "y": 35
+          }
+        ]
+      },
+      {
+        "name": "Aft Battery",
+        "sections": [
+          {
+            "ref": "Space Port/Aft Battery/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1099,
+            "y": 51
+          }
+        ]
+      },
+      {
+        "name": "Forward Battery",
+        "sections": [
+          {
+            "ref": "Space Port/Forward Battery/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1211,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Gantry",
+        "sections": [
+          {
+            "ref": "Space Port/Gantry/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1011,
+            "y": 59
+          }
+        ]
+      },
+      {
+        "name": "Ready Room",
+        "sections": [
+          {
+            "ref": "Space Port/Ready Room/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1003,
+            "y": 43
+          }
+        ]
+      },
+      {
+        "name": "Torpedo Bay",
+        "sections": [
+          {
+            "ref": "Space Port/Torpedo Bay/Missile"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 867,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Extract Storage",
+        "sections": [
+          {
+            "ref": "Space Port/Extract Storage/Metroid Suit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 875,
+            "y": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWOceania",
+    "children": [
+      {
+        "name": "Impact Crater",
+        "sections": [
+          {
+            "ref": "Oceania/Impact Crater/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 714,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Subterranean Burrow",
+        "sections": [
+          {
+            "ref": "Oceania/Subterranean Burrow/Morph Ball"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 714,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Impact Crater Alcove",
+        "sections": [
+          {
+            "ref": "Oceania/Impact Crater Alcove/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 666,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Impact Crater Overlook",
+        "sections": [
+          {
+            "ref": "Oceania/Impact Crater Overlook/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 674,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Ocean Shore: Bottom",
+        "sections": [
+          {
+            "ref": "Oceania/Ocean Shore: Bottom/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 650,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Ocean Shore: Top",
+        "sections": [
+          {
+            "ref": "Oceania/Ocean Shore: Top/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 658,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Sandy Cache",
+        "sections": [
+          {
+            "ref": "Oceania/Sandy Cache/Gravity Boots"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 554,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Submarine Nest",
+        "sections": [
+          {
+            "ref": "Oceania/Submarine Nest/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 506,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of The Penumbra",
+        "sections": [
+          {
+            "ref": "Oceania/Shrine Of The Penumbra/Dark Visor"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 546,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Sandy Burrow: Top",
+        "sections": [
+          {
+            "ref": "Oceania/Sandy Burrow: Top/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 530,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Sandy Burrow: Bottom",
+        "sections": [
+          {
+            "ref": "Oceania/Sandy Burrow: Bottom/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 522,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Benthic Cache Access",
+        "sections": [
+          {
+            "ref": "Oceania/Benthic Cache Access/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 530,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Benthic Cache",
+        "sections": [
+          {
+            "ref": "Oceania/Benthic Cache/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 536,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Submarine Alcove",
+        "sections": [
+          {
+            "ref": "Oceania/Submarine Alcove/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 570,
+            "y": 323
+          }
+        ]
+      },
+      {
+        "name": "Ocean Vent Supply Depot",
+        "sections": [
+          {
+            "ref": "Oceania/Ocean Vent Supply Depot/Super Missile"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 570,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Sediment Floor",
+        "sections": [
+          {
+            "ref": "Oceania/Sediment Floor/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 610,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Sediment Flow",
+        "sections": [
+          {
+            "ref": "Oceania/Sediment Flow/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 594,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Sandy Gully",
+        "sections": [
+          {
+            "ref": "Oceania/Sandy Gully/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 634,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Eddy Channel",
+        "sections": [
+          {
+            "ref": "Oceania/Eddy Channel/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 642,
+            "y": 339
+          }
+        ]
+      },
+      {
+        "name": "Tram To Suzi Island",
+        "sections": [
+          {
+            "ref": "Oceania/Tram To Suzi Island/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 482,
+            "y": 347
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWOceaniaCrashed",
+    "visibility_rules": ["$spaceport_crashed"],
+    "children": [
+      {
+        "name": "Docking Port 4 Crashed Item",
+        //"access_rules": [["@Space Port/Docking Port 4/Space Jump Boost"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 707,
+            "y": 227
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWVulnarCaves",
+    "children": [
+      {
+        "name": "Harmonic Growth Enhancer",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Harmonic Growth Enhancer/Wave Beam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 818,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Upper Vulnar Power Node",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Upper Vulnar Power Node/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 778,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Grand Vault",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Grand Vault/X-Ray Scope"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 794,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Cistern",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Cistern/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 858,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Warrior Shrine: Bottom",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Warrior Shrine: Bottom/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 882,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "name": "Warrior Shrine: Top",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Warrior Shrine: Top/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 874,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Warrior Shrine: Middle",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Warrior Shrine: Middle/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 874,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "name": "Vulnar Caves Entrance",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Vulnar Caves Entrance/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 754,
+            "y": 259
+          }
+        ]
+      },
+      {
+        "name": "Trophobiotic Chamber",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Trophobiotic Chamber/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 786,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Path Of Swords",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Path Of Swords/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 754,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Crypt",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Crypt/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 826,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Arena",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Arena/Bombs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 858,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Auxiliary Pump Room",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Auxiliary Pump Room/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 826,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Monitoring Station",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Monitoring Station/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 794,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Archives: Front",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Archives: Front/Speedball"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 802,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Archives: Back",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Archives: Back/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 778,
+            "y": 211
+          }
+        ]
+      },
+      {
+        "name": "Sensor Maintenance: Top",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Sensor Maintenance: Top/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 786,
+            "y": 219
+          }
+        ]
+      },
+      {
+        "name": "Sensor Maintenance: Bottom",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Sensor Maintenance: Bottom/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 786,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Causeway Overlook",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Causeway Overlook/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 898,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Eribium Apparatus Room",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Eribium Apparatus Room/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 914,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "West Spore Field",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/West Spore Field/Charge Beam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 786,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Hot Spring",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Hot Spring/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 810,
+            "y": 331
+          }
+        ]
+      },
+      {
+        "name": "Waste Processing",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Waste Processing/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 866,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Placid Pool",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Placid Pool/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 850,
+            "y": 331
+          }
+        ]
+      },
+      {
+        "name": "Epiphreatic Crag",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Epiphreatic Crag/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 954,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Mezzanine Concourse",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Mezzanine Concourse/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 922,
+            "y": 227
+          }
+        ]
+      },
+      {
+        "name": "Grand Chasm",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Grand Chasm/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 810,
+            "y": 171
+          }
+        ]
+      },
+      {
+        "name": "Hall Of The Elders",
+        "sections": [
+          {
+            "ref": "Vulnar Caves/Hall Of The Elders/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 859,
+            "y": 235
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWDepths",
+    "children": [
+      {
+        "name": "Blazing Chasm",
+        "sections": [
+          {
+            "ref": "The Depths/Blazing Chasm/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 778,
+            "y": 515
+          }
+        ]
+      },
+      {
+        "name": "Greater Inferno",
+        "sections": [
+          {
+            "ref": "The Depths/Greater Inferno/Plasma Beam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 810,
+            "y": 539
+          }
+        ]
+      },
+      {
+        "name": "Mining Site 1",
+        "sections": [
+          {
+            "ref": "The Depths/Mining Site 1/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 722,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Burning Depths Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Burning Depths Cache/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 882,
+            "y": 499
+          }
+        ]
+      },
+      {
+        "name": "Generator Manifold",
+        "sections": [
+          {
+            "ref": "The Depths/Generator Manifold/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 818,
+            "y": 451
+          }
+        ]
+      },
+      {
+        "name": "Colosseum",
+        "sections": [
+          {
+            "ref": "The Depths/Colosseum/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 778,
+            "y": 443
+          }
+        ]
+      },
+      {
+        "name": "Mining Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Mining Cache/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 770,
+            "y": 395
+          }
+        ]
+      },
+      {
+        "name": "Lava Pool",
+        "sections": [
+          {
+            "ref": "The Depths/Lava Pool/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 802,
+            "y": 387
+          }
+        ]
+      },
+      {
+        "name": "Fiery Crossing Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Fiery Crossing Cache/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 746,
+            "y": 411
+          }
+        ]
+      },
+      {
+        "name": "Dark Crevice Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Dark Crevice Cache/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 746,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "name": "Magma Chamber",
+        "sections": [
+          {
+            "ref": "The Depths/Magma Chamber/Power Bombs"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 754,
+            "y": 483
+          }
+        ]
+      },
+      {
+        "name": "Hive Main Chamber",
+        "sections": [
+          {
+            "ref": "The Depths/Hive Main Chamber/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 930,
+            "y": 363
+          }
+        ]
+      },
+      {
+        "name": "Infested Passage",
+        "sections": [
+          {
+            "ref": "The Depths/Infested Passage/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 938,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "Crossway Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Crossway Cache/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 970,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "Fire's Boon Shrine",
+        "sections": [
+          {
+            "ref": "The Depths/Fire's Boon Shrine/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1002,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "name": "Fire's Bane Shrine",
+        "sections": [
+          {
+            "ref": "The Depths/Fire's Bane Shrine/Ice Beam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1034,
+            "y": 451
+          }
+        ]
+      },
+      {
+        "name": "Slag Heap",
+        "sections": [
+          {
+            "ref": "The Depths/Slag Heap/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 978,
+            "y": 459
+          }
+        ]
+      },
+      {
+        "name": "Ancient Shaft",
+        "sections": [
+          {
+            "ref": "The Depths/Ancient Shaft/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1042,
+            "y": 411
+          }
+        ]
+      },
+      {
+        "name": "Gymnasium",
+        "sections": [
+          {
+            "ref": "The Depths/Gymnasium/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1034,
+            "y": 379
+          }
+        ]
+      },
+      {
+        "name": "Ancient Basin",
+        "sections": [
+          {
+            "ref": "The Depths/Ancient Basin/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1058,
+            "y": 387
+          }
+        ]
+      },
+      {
+        "name": "Electromechanical Engine",
+        "sections": [
+          {
+            "ref": "The Depths/Electromechanical Engine/Grapple Beam"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 810,
+            "y": 419
+          }
+        ]
+      },
+      {
+        "name": "Depressurization Valve",
+        "sections": [
+          {
+            "ref": "The Depths/Depressurization Valve/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 842,
+            "y": 435
+          }
+        ]
+      },
+      {
+        "name": "Magma Lake Cache",
+        "sections": [
+          {
+            "ref": "The Depths/Magma Lake Cache/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 682,
+            "y": 435
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWLomyrValley",
+    "children": [
+      {
+        "name": "Loading Dock Storage Area",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Loading Dock Storage Area/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1018,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Equipment Locker",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Equipment Locker/Hi-Jump Boots"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 954,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Antelier",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Antelier/Aqua Suit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1026,
+            "y": 243
+          }
+        ]
+      },
+      {
+        "name": "Hydrodynamic Chamber",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Hydrodynamic Chamber/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1002,
+            "y": 259
+          }
+        ]
+      },
+      {
+        "name": "Central Corridor: Left",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Central Corridor: Left/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 994,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Central Corridor: Right",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Central Corridor: Right/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1026,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Restricted Area",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Restricted Area/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 986,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Weapon Research",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Weapon Research/Spazer"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 970,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Containment Area",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Containment Area/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1034,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Foundry",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Foundry/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1026,
+            "y": 267
+          }
+        ]
+      },
+      {
+        "name": "Norak Escarpment",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Norak Escarpment/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1121,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Briar: Top",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Briar: Top/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1178,
+            "y": 283
+          }
+        ]
+      },
+      {
+        "name": "Briar: Bottom",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Briar: Bottom/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1202,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of Fervor",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Shrine Of Fervor/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1242,
+            "y": 299
+          }
+        ]
+      },
+      {
+        "name": "Chamber Of Wind",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Chamber Of Wind/Space Jump"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1242,
+            "y": 331
+          }
+        ]
+      },
+      {
+        "name": "Water Garden",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Water Garden/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1114,
+            "y": 315
+          }
+        ]
+      },
+      {
+        "name": "Crocomire's Lair",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Crocomire's Lair/Speed Booster"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1186,
+            "y": 347
+          }
+        ]
+      },
+      {
+        "name": "Crocomire's Energy Station",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Crocomire's Energy Station/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1170,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Wellspring Cache",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Wellspring Cache/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1138,
+            "y": 363
+          }
+        ]
+      },
+      {
+        "name": "Garden Canal",
+        "sections": [
+          {
+            "ref": "Lomyr Valley/Garden Canal/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 1178,
+            "y": 331
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWVulnarPeaks",
+    "children": [
+      {
+        "name": "Frozen Lake Wall",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Frozen Lake Wall/Damage Amp"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 987,
+            "y": 147
+          }
+        ]
+      },
+      {
+        "name": "Grand Promenade",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Grand Promenade/Refuel Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 771,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "Summit Landing",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Summit Landing/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 891,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "Icy Flow",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Icy Flow/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 923,
+            "y": 131
+          }
+        ]
+      },
+      {
+        "name": "Snow Cache",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Snow Cache/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 931,
+            "y": 147
+          }
+        ]
+      },
+      {
+        "name": "Ice Cave",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Ice Cave/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 923,
+            "y": 139
+          }
+        ]
+      },
+      {
+        "name": "Glacier's Reach",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Glacier's Reach/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 907,
+            "y": 115
+          }
+        ]
+      },
+      {
+        "name": "Reliquary Access",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Reliquary Access/Energy Tank"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 795,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "name": "Syzygy Observatorium",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Syzygy Observatorium/Screw Attack\nCode 32311"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 827,
+            "y": 67
+          }
+        ]
+      },
+      {
+        "name": "Armory Cache 2",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Armory Cache 2/Varia Suit"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 827,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Armory Cache 3",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Armory Cache 3/Space Jump Boost"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 835,
+            "y": 123
+          }
+        ]
+      },
+      {
+        "name": "Sitting Room",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Sitting Room/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 803,
+            "y": 99
+          }
+        ]
+      },
+      {
+        "name": "Drawing Room",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Drawing Room/Accel Charge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 851,
+            "y": 99
+          }
+        ]
+      },
+      {
+        "name": "Antechamber",
+        "sections": [
+          {
+            "ref": "Vulnar Peaks/Antechamber/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 851,
+            "y": 115
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OWSuziIsland",
+    "children": [
+      {
+        "name": "Suzi Island Map Station Access",
+        "sections": [
+          {
+            "ref": "Suzi Island/Suzi Island Map Station Access/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 171,
+            "y": 354
+          }
+        ]
+      },
+      {
+        "name": "Obscured Vestibule",
+        "sections": [
+          {
+            "ref": "Suzi Island/Obscured Vestibule/Large Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 99,
+            "y": 275
+          }
+        ]
+      },
+      {
+        "name": "Portico",
+        "sections": [
+          {
+            "ref": "Suzi Island/Portico/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 203,
+            "y": 291
+          }
+        ]
+      },
+      {
+        "name": "Tower Rock Lookout",
+        "sections": [
+          {
+            "ref": "Suzi Island/Tower Rock Lookout/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 315,
+            "y": 251
+          }
+        ]
+      },
+      {
+        "name": "Reef Nook",
+        "sections": [
+          {
+            "ref": "Suzi Island/Reef Nook/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 307,
+            "y": 307
+          }
+        ]
+      },
+      {
+        "name": "Saline Cache",
+        "sections": [
+          {
+            "ref": "Suzi Island/Saline Cache/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 235,
+            "y": 355
+          }
+        ]
+      },
+      {
+        "name": "Enervation Chamber",
+        "sections": [
+          {
+            "ref": "Suzi Island/Enervation Chamber/Small Ammo"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 147,
+            "y": 235
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of The Animate Spark",
+        "sections": [
+          {
+            "ref": "Suzi Island/Shrine Of The Animate Spark/Hypercharge"
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "fullmap",
+            "x": 147,
+            "y": 187
+          }
+        ]
+      }
+    ]
+  }
+]

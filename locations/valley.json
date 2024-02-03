@@ -1,0 +1,347 @@
+[
+  {
+    "name": "Lomyr Valley",
+    "children": [
+      {
+        "name": "Loading Dock Storage Area",
+        "access_rules": [["$get_access_to_loc|Loading Dock Storage Area"]],
+        "sections": [
+          {
+            "name": "Damage Amp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 101,
+            "y": 92
+          }
+        ]
+      },
+      {
+        "name": "Equipment Locker",
+        "access_rules": [["$get_access_to_loc|Equipment Locker"]],
+        "sections": [
+          {
+            "name": "Hi-Jump Boots",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 37,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Antelier",
+        "access_rules": [["$get_access_to_loc|Antelier"]],
+        "sections": [
+          {
+            "name": "Aqua Suit",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 109,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Hydrodynamic Chamber",
+        "access_rules": [["$get_access_to_loc|Hydrodynamic Chamber"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 85,
+            "y": 116
+          }
+        ]
+      },
+      {
+        "name": "Central Corridor: Left",
+        "access_rules": [["$get_access_to_loc|Central Corridor Left"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 77,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Central Corridor: Right",
+        "access_rules": [["$get_access_to_loc|Central Corridor Right"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 109,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Restricted Area",
+        "access_rules": [["$get_access_to_loc|Restricted Area"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 69,
+            "y": 132
+          }
+        ]
+      },
+      {
+        "name": "Weapon Research",
+        "access_rules": [["$get_access_to_loc|Weapon Research"]],
+        "sections": [
+          {
+            "name": "Spazer",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 53,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Containment Area",
+        "access_rules": [["$get_access_to_loc|Containment Area"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 117,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Foundry",
+        "access_rules": [["$get_access_to_loc|Foundry"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 109,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Norak Escarpment",
+        "access_rules": [["$get_access_to_loc|Norak Escarpment"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 205,
+            "y": 92
+          }
+        ]
+      },
+      {
+        "name": "Briar: Top",
+        "access_rules": [["$get_access_to_loc|Briar Top"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 261,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Briar: Bottom",
+        "access_rules": [["$get_access_to_loc|Briar Bottom"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 285,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Shrine Of Fervor",
+        "access_rules": [["$get_access_to_loc|Shrine Of Fervor"]],
+        "sections": [
+          {
+            "name": "Accel Charge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 325,
+            "y": 156
+          }
+        ]
+      },
+      {
+        "name": "Chamber Of Wind",
+        "access_rules": [["$get_access_to_loc|Chamber Of Wind"]],
+        "sections": [
+          {
+            "name": "Space Jump",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 325,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "Water Garden",
+        "access_rules": [["$get_access_to_loc|Water Garden"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 197,
+            "y": 172
+          }
+        ]
+      },
+      {
+        "name": "Crocomire's Lair",
+        "access_rules": [["$get_access_to_loc|Crocomire's Lair"]],
+        "sections": [
+          {
+            "name": "Speed Booster",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 269,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "Crocomire's Energy Station",
+        "access_rules": [["$get_access_to_loc|Crocomire's Energy Station"]],
+        "sections": [
+          {
+            "name": "Refuel Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 253,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Wellspring Cache",
+        "access_rules": [["$get_access_to_loc|Wellspring Cache"]],
+        "sections": [
+          {
+            "name": "Damage Amp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 221,
+            "y": 220
+          }
+        ]
+      },
+      {
+        "name": "Garden Canal",
+        "access_rules": [["$get_access_to_loc|Garden Canal"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "lomyrmap",
+            "x": 261,
+            "y": 188
+          }
+        ]
+      }
+    ]
+  }
+]

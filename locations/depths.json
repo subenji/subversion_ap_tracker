@@ -1,0 +1,398 @@
+[
+  {
+    "name": "The Depths",
+    "children": [
+      {
+        "name": "Blazing Chasm",
+        "access_rules": [["$get_access_to_loc|Blazing Chasm"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 115,
+            "y": 204
+          }
+        ]
+      },
+      {
+        "name": "Greater Inferno",
+        "access_rules": [["$get_access_to_loc|Greater Inferno"]],
+        "sections": [
+          {
+            "name": "Plasma Beam",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 147,
+            "y": 228
+          }
+        ]
+      },
+      {
+        "name": "Mining Site 1",
+        "access_rules": [["$get_access_to_loc|Mining Site 1"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 59,
+            "y": 44
+          }
+        ]
+      },
+      {
+        "name": "Burning Depths Cache",
+        "access_rules": [["$get_access_to_loc|Burning Depths Cache"]],
+        "sections": [
+          {
+            "name": "Accel Charge",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 219,
+            "y": 188
+          }
+        ]
+      },
+      {
+        "name": "Generator Manifold",
+        "access_rules": [["$get_access_to_loc|Generator Manifold"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 155,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Colosseum",
+        "access_rules": [["$get_access_to_loc|Colosseum"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 115,
+            "y": 132
+          }
+        ]
+      },
+      {
+        "name": "Mining Cache",
+        "access_rules": [["$get_access_to_loc|Mining Cache"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 107,
+            "y": 84
+          }
+        ]
+      },
+      {
+        "name": "Lava Pool",
+        "access_rules": [["$get_access_to_loc|Lava Pool"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 139,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Fiery Crossing Cache",
+        "access_rules": [["$get_access_to_loc|Fiery Crossing Cache"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 83,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Dark Crevice Cache",
+        "access_rules": [["$get_access_to_loc|Dark Crevice Cache"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 83,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Magma Chamber",
+        "access_rules": [["$get_access_to_loc|Magma Chamber"]],
+        "sections": [
+          {
+            "name": "Power Bombs",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 91,
+            "y": 172
+          }
+        ]
+      },
+      {
+        "name": "Hive Main Chamber",
+        "access_rules": [["$get_access_to_loc|Hive Main Chamber"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 267,
+            "y": 52
+          }
+        ]
+      },
+      {
+        "name": "Infested Passage",
+        "access_rules": [["$get_access_to_loc|Infested Passage"]],
+        "sections": [
+          {
+            "name": "Refuel Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 275,
+            "y": 68
+          }
+        ]
+      },
+      {
+        "name": "Crossway Cache",
+        "access_rules": [["$get_access_to_loc|Crossway Cache"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 307,
+            "y": 68
+          }
+        ]
+      },
+      {
+        "name": "Fire's Boon Shrine",
+        "access_rules": [["$get_access_to_loc|Fire's Boon Shrine"]],
+        "sections": [
+          {
+            "name": "Damage Amp",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 339,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Fire's Bane Shrine",
+        "access_rules": [["$get_access_to_loc|Fire's Bane Shrine"]],
+        "sections": [
+          {
+            "name": "Ice Beam",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 371,
+            "y": 140
+          }
+        ]
+      },
+      {
+        "name": "Slag Heap",
+        "access_rules": [["$get_access_to_loc|Slag Heap"]],
+        "sections": [
+          {
+            "name": "Large Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 315,
+            "y": 148
+          }
+        ]
+      },
+      {
+        "name": "Ancient Shaft",
+        "access_rules": [["$get_access_to_loc|Ancient Shaft"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 379,
+            "y": 100
+          }
+        ]
+      },
+      {
+        "name": "Gymnasium",
+        "access_rules": [["$get_access_to_loc|Gymnasium"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 371,
+            "y": 68
+          }
+        ]
+      },
+      {
+        "name": "Ancient Basin",
+        "access_rules": [["$get_access_to_loc|Ancient Basin"]],
+        "sections": [
+          {
+            "name": "Small Ammo",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 395,
+            "y": 76
+          }
+        ]
+      },
+      {
+        "name": "Electromechanical Engine",
+        "access_rules": [["$get_access_to_loc|Electromechanical Engine"]],
+        "sections": [
+          {
+            "name": "Grapple Beam",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 147,
+            "y": 108
+          }
+        ]
+      },
+      {
+        "name": "Depressurization Valve",
+        "access_rules": [["$get_access_to_loc|Depressurization Valve"]],
+        "sections": [
+          {
+            "name": "Energy Tank",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 179,
+            "y": 124
+          }
+        ]
+      },
+      {
+        "name": "Magma Lake Cache",
+        "access_rules": [["$get_access_to_loc|Magma Lake Cache"]],
+        "sections": [
+          {
+            "name": "Space Jump Boost",
+            "item_count": 1
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "depthsmap",
+            "x": 19,
+            "y": 124
+          }
+        ]
+      }
+    ]
+  }
+]
